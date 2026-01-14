@@ -71,9 +71,9 @@ Configuration de base du projet et développement des composants fondamentaux du
 
 ### Tâche 7 : Hero Section (Accueil)
 **Échéance : 16 Janvier**
-- [ ] Créer le titre H1 avec un dégradé de couleur (Gradiant)
-- [ ] Intégrer une image de fond "Immobilier de prestige" haute définition
-- [ ] Ajouter un bouton central (CTA) "Découvrir nos services" avec animation d'entrée
+- [x] Créer le titre H1 avec un dégradé de couleur (Gradiant)
+- [x] Intégrer une image de fond "Immobilier de prestige" haute définition
+- [x] Ajouter un bouton central (CTA) "Découvrir nos services" avec animation d'entrée
 
 **Issue GitHub** : [#25](https://github.com/tontonWilfried/L-man-Prestige-S-RL/issues/25)
 
@@ -81,9 +81,9 @@ Configuration de base du projet et développement des composants fondamentaux du
 
 ### Tâche 8 : Footer (Bas de page)
 **Échéance : 17 Janvier**
-- [ ] Créer les colonnes de liens (Services, À propos, Légal)
-- [ ] Intégrer les icônes de réseaux sociaux (LinkedIn, Instagram)
-- [ ] Afficher les informations de contact (Email, Téléphone)
+- [x] Créer les colonnes de liens (Services, À propos, Légal)
+- [x] Intégrer les icônes de réseaux sociaux (LinkedIn, Instagram)
+- [x] Afficher les informations de contact (Email, Téléphone)
 
 **Issue GitHub** : [#26](https://github.com/tontonWilfried/L-man-Prestige-S-RL/issues/26)
 
